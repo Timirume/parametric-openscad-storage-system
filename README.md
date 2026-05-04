@@ -15,7 +15,7 @@ A fully parametric dual-taper storage system designed in OpenSCAD with a matchin
 - Clearance for real-world 3D printing fit
 
 ## Preview
-(Add renders here)
+See Added images for sample or preview
 
 ## Author
 Timothy Okibe Ogese
